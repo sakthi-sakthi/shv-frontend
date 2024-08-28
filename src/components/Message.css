@@ -1,0 +1,14 @@
+.py-5 {
+  padding-bottom: 0rem !important;
+  padding-top: 0rem !important;
+}
+.heading {
+  font-size: 25px;
+  text-align: center;
+}
+.half-page-banner {
+  min-height: 20rem;
+}
+.bg-cover {
+  background-size: cover !important;
+}
